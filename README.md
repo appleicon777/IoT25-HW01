@@ -20,6 +20,7 @@ Set ESP32 Board at Arduino IDE 2.0, Check if the board operates well with Exampl
 
 ## Code
 
+```cpp
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
