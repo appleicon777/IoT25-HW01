@@ -9,7 +9,7 @@ Set ESP32 Board at Arduino IDE 2.0, Check if the board operates well with Exampl
 - Board: DOIT ESP32 DEVKIT V1
 - Port: /dev/cu.SLAB_USBtoUART
 
-![IDE 설정 스크린샷](./images/ide.png)
+![IoT25-HW01](./IoT25-HW01.png)
 
 ---
 
