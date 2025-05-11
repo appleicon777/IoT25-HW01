@@ -1,4 +1,4 @@
-# IoT25-HW03
+# IoT25-HW01
 
 ## Purpose
 Set ESP32 Board at Arduino IDE 2.0, Check if the board operates well with Example Blink
